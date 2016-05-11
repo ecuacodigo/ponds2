@@ -1,0 +1,3 @@
+2016-05-04 16:45:56|SI|adasdasdas asdasdasdas|23|1231212321|Soy aasdasdasdas
+2016-05-04 16:50:11|SI|asdasdasds asdasdasd|23|1231231231|Soy ffffffffff
+2016-05-04 16:53:27|NO|asdasdasd dasdasdsa|23|1231212312|Soy 213231232
